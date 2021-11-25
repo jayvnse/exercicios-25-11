@@ -10,5 +10,5 @@ package javaapplication17;
  * @author jacks
  */
 public class exer7 {
-    
+        // Crie um vetor A com 5 elementos inteiros. Após criado o vetor A faça B[i] = A[i] ^ 2.
 }

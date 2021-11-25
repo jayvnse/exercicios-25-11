@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class exer4 {
      public static void main(String[] args) {
+        //Crie um vetor A com 5 elementos. Após cirado o vetor A faça A[i]=B[i]
         Scanner ler = new Scanner(System.in);
 
         int[] vetorA = new int[5];
